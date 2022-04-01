@@ -1,3 +1,3 @@
 # The C Programming Language
 
-The C Programming Language by Kernighan and Ritchie.
+Source codes from "The C programming Language" by Kernighan and Ritchie.
